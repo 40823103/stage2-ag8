@@ -4,3 +4,6 @@
 [submodule "cmsimde-1"]
 	path = cmsimde-1
 	url = https://github.com/mdecourse/cmsimde.git
+[submodule "stage2-ag8"]
+	path = stage2-ag8
+	url = https://github.com/40823107/stage2-ag8.git
